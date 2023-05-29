@@ -1,3 +1,11 @@
+body {
+    margin: 0;
+  }
+  .container {
+    width: 100vw;
+    height: 100vh;
+    background: pink;
+  }
 a {
     color:black;
     text-decoration: none;
@@ -25,6 +33,7 @@ h1 {
     margin: 0px;
     padding:20px;
     padding-left: 24px;
+    height: 100%;
 
 }
 body{
@@ -47,4 +56,13 @@ body{
     h1{
         border-bottom: none;
     }
+    iframe{
+        width:450;
+        
+    }
+    
 }
+#youtube{
+        margin-left: 145px;
+        margin-top: 50px;
+    }
